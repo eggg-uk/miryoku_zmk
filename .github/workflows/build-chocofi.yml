@@ -12,4 +12,4 @@ jobs:
       shield: '["corne_left","corne_right", "settings_reset"]'
       #kconfig: '["CONFIG_ZMK_DISPLAY=y"]\n[snippet: zmk-usb-logging]'
       kconfig: '["CONFIG_ZMK_SLEEP=n\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_IDLE_TIMEOUT=30000\nCONFIG_CLOCK_CONTROL_NRF_K32SRC_RC=y"]\n[snippet: zmk-usb-logging]'
-      alphas: "QWERTY"
+      alphas: '["QWERTY"]'
